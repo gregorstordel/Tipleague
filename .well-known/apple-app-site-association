@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MZ6K6RAB97.com.tipleague",
+        "paths": ["/join/*"]
+      }
+    ]
+  }
+}
