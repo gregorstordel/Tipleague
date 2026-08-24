@@ -2,4 +2,4 @@
 
 Öffentliche Einladungsseite für Tipprunden.
 
-Live: https://tipleague.vercel.app/join/{CODE}
+Live: https://tipleague.app/join/{CODE}
